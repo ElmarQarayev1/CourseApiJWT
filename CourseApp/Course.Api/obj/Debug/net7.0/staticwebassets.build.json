@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "e3Oshz5yQN7f7yZmpPXftQyyyeB2jsEfvJrb+4cGeFw=",
+  "Source": "Course.Api",
+  "BasePath": "_content/Course.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Course.Api/wwwroot",
+      "Source": "Course.Api",
+      "ContentRoot": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Api/wwwroot/",
+      "BasePath": "_content/Course.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Api/wwwroot/uploads/students/b9961df9-0665-4ca1-8c7d-e4551e33d514teacher1.jpg",
+      "SourceId": "Course.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Api/wwwroot/",
+      "BasePath": "_content/Course.Api",
+      "RelativePath": "uploads/students/b9961df9-0665-4ca1-8c7d-e4551e33d514teacher1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/students/b9961df9-0665-4ca1-8c7d-e4551e33d514teacher1.jpg"
+    }
+  ]
+}
